@@ -30,10 +30,11 @@ const ADVENT_DATA = {
     ],
     contacts: [
       { label: "Setka", url: "https://setka.ru/users/798caf1e-7d71-4003-ae21-1bc0a3d44fc8" },
-	{ label: "Telegram", url: "https://t.me/NinaOs" },
-      { label: "Резюме PDF", url: "" },
+      { label: "Telegram", url: "https://t.me/NinaOs" },
       { label: "LinkedIn", url: "https://www.linkedin.com/in/ostrovskaia-nina/" },
-      { label: "Email", url: "" }
+      { label: "GitHub", url: "https://github.com/nostrovskaia/" },
+      { label: "Email", url: "nv-o@yandex.ru" },
+      { label: "Резюме PDF", url: "./resume.pdf" }
     ],
     footerNote: "Качество — это не финальная проверка, а способ думать о продукте. Открыта к интересным профессиональным задачам."
   },
